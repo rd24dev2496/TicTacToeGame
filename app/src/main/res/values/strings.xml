@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameTicTac</string>
+    <string name="want_play_again">Want Play Again</string>
+</resources>
